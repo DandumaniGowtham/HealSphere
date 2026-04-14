@@ -10,7 +10,7 @@
 
 ## 🌐 Live Application
 
-🔗 **Frontend:** https://heal-sphere.netlify.app
+🔗 **Frontend:** https://healsphereweb.netlify.app
 
 🔗 **Backend API:** https://healthcarehub-backend.up.railway.app
 
