@@ -66,30 +66,57 @@ HealSphere/
 │   │   ├── assets/
 │   │   ├── components/
 │   │   │   ├── common/
-│   │   │      
-│   │   ├── features/
-│   │   │   ├── auth/
-│   │   │   ├── dashboard/
-│   │   │   ├── hospitals/
-│   │   │   └── landing/
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── Footer.jsx
+│   │   │
 │   │   ├── pages/
+│   │   │   ├── Home.jsx
+│   │   │   ├── Login.jsx
+│   │   │   ├── Register.jsx
+│   │   │   ├── Dashboard.jsx
+│   │   │   ├── Hospitals.jsx
+│   │   │
 │   │   ├── services/
+│   │   │   └── api.js
+│   │   │
 │   │   ├── App.jsx
 │   │   └── main.jsx
+│   │
 │   ├── index.html
-│   └── package.json
+│   ├── package.json
+│   └── vite.config.js
 │
 ├── HealSphere-Backend/
-│   ├── src/main/java/nimblix/in/HealthCareHub/
+│   ├── src/main/java/com/HealthCareHub/
 │   │   ├── controller/
+│   │   │   ├── AuthController.java
+│   │   │   ├── PatientController.java
+│   │   │   ├── HospitalController.java
+│   │   │
 │   │   ├── model/
+│   │   │   ├── Patient.java
+│   │   │   ├── Hospital.java
+│   │   │   ├── Admin.java
+│   │   │
 │   │   ├── repository/
+│   │   │   ├── PatientRepository.java
+│   │   │   ├── HospitalRepository.java
+│   │   │
 │   │   ├── service/
+│   │   │   ├── PatientService.java
+│   │   │   ├── HospitalService.java
+│   │   │
 │   │   ├── serviceImpl/
+│   │   │   ├── PatientServiceImpl.java
+│   │   │   ├── HospitalServiceImpl.java
+│   │   │
 │   │   ├── security/
+│   │   │   ├── JwtUtil.java
+│   │   │   ├── SecurityConfig.java
+│   │   │
 │   │   └── HealthCareHubApplication.java
 │   │
-│   ├── resources/
+│   ├── src/main/resources/
 │   │   └── application.properties
 │   │
 │   └── pom.xml
