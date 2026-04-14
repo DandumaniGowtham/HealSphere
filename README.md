@@ -215,11 +215,11 @@ If you like this project:
 
 ## 📬 Contact Me
 
-📧 **Email:** [udayandranimblix@gmail.com](mailto:udayandranimblix@gmail.com)
+📧 **Email:** [dandumanigowtham@gmail.com](mailto:dandumanigowtham@gmail.com)
 
-🔗 **LinkedIn:** [https://linkedin.com/in/andra-udaychandra](https://linkedin.com/in/andra-udaychandra)
+🔗 **LinkedIn:** [http://linkedin.com/in/dandumani-gowtham-943141309](http://linkedin.com/in/dandumani-gowtham-943141309)
 
-💻 **GitHub:** [https://github.com/uday-andra03](https://github.com/uday-andra03)
+💻 **GitHub:** [https://github.com/DandumaniGowtham](https://github.com/DandumaniGowtham)
 
 
 <h1 align="center">
