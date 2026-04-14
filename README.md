@@ -149,7 +149,7 @@ HealSphere/
 ### 🔹 Clone
 
 ```
-git clone https://github.com/uday-andra03/HealSphere.git
+git clone https://github.com/DandumaniGowtham/HealSphere.git
 cd HealSphere
 ```
 
